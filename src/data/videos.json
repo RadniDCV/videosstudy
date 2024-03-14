@@ -1,0 +1,43 @@
+{
+    "videos": [
+      {
+        "name": "2 Hours Of Beautiful Studio Ghibli Music",
+        "image": "../../public/images/image01.png",
+        "link": "/page01"
+      },
+      {
+        "name": "[RELAX PIANO] 💛 Stop thinking too much",
+        "image": "../../public/images/image02.png",
+        "link": "/page02"
+      }
+      ,
+      {
+        "name": "[1 HOUR] Ghibli music brings positive energy",
+        "image": "../../public/images/image03.png",
+        "link": "/page03"
+      }
+      ,
+      {
+        "name": "Deep Focus Music To Improve Concentration",
+        "image": "../../public/images/image04.png",
+        "link": "/page04"
+      }
+      ,
+      {
+        "name": "Greatest Studio Ghibli Soundtracks",
+        "image": "../../public/images/image05.png",
+        "link": "/page05"
+      }
+      ,
+      {
+        "name": "Relaxing Music Relieves Stress, Anxiety and Depression",
+        "image": "../../public/images/image06.png",
+        "link": "/page06"
+      }
+    
+    
+    
+    
+    ]
+  }
+  
